@@ -1,5 +1,5 @@
 # Visual effect graph sample
-***
+
 ## 喷射特效
 ![JetGif](https://jp-github.oss-cn-shenzhen.aliyuncs.com/gif/battary/battaryGif.gif)
 ***
